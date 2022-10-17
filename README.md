@@ -1,4 +1,4 @@
-# GitPrcticeRepo
+# GitPracticeRepo
 
 # Change #1
 
